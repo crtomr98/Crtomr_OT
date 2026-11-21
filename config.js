@@ -3,6 +3,6 @@
 // login and the row-level security rules in supabase/schema.sql. Never paste the
 // service_role / secret key here.
 window.CRISTOMAR_SUPABASE = {
-  url: "PASTE_PROJECT_URL_HERE",   // e.g. https://abcdxyz.supabase.co
-  key: "PASTE_ANON_PUBLIC_KEY_HERE"
+  url: "https://bazuiadfsrgzkbtsetxd.supabase.co",   // e.g. https://abcdxyz.supabase.co
+  key: "sb_publishable_ThnYfp5yqzQ9HWgoRAyF1Q_vY-V8dVJ"
 };
